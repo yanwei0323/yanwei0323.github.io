@@ -1,0 +1,8 @@
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx92a5b5a4849ae0e6&redirect_uri=http://wuhaiyang.applinzi.com/shuqian/php/auth.php&response_type=code&scope=snsapi_userinfo&state=STATE#wechat_redirect
+
+
+1.将授权的代码拷贝到数钱游戏的php文件中,授权代码(微信第三天中的auth.php文件)
+
+2.找到跳转授权代码的url,位置是在(微信第三天中的auth.html中的a标签)
+
+3.将所有代码上传到SAE中
